@@ -1,7 +1,11 @@
 # MSF-HELPER
-Metasploit Helper, Install or Using Metasploit just one click
-Coded by Iqbalmh18
-
+```
+Metasploit Helper, can helping you for :
+- Installing Metasploit
+- Installing Ngrok
+- Creating Any Backdoor Msfvenom
+- Just Type and Enter
+```
 # INSTALLATION
 ```
 $ pkg update && pkg upgrade
