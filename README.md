@@ -2,7 +2,7 @@
 Metasploit Helper, Install or Using Metasploit just one click
 Coded by Iqbalmh18
 
-# Installation
+# INSTALLATION
 ```
 $ pkg update && pkg upgrade
 $ pkg install git
